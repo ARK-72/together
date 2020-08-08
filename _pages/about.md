@@ -16,4 +16,4 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: false
 ---
 
-Write something here about who you are and what you do or at least hope to do.
+Together is a multidisciplinary team offering support to special needs children and young people, their families and communities.
